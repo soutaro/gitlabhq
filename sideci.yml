@@ -1,6 +1,7 @@
 linter:
   rubocop:
     gems:
+      - rubocop-rspec
       - gitlab-styles      
   eslint:
     npm_install: true
