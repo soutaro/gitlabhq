@@ -1,0 +1,6 @@
+linter:
+  rubocop:
+    gems:
+      - gitlab-styles      
+  eslint:
+    npm_install: true
